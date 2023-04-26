@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+import LogIn from './screens/LogIn';
 // import Register from './Components/Register.js';
 // import Update from './Components/Update';
 // import Profile from './Components/Profile';
@@ -14,6 +15,7 @@ function App() {
      {/* <Profile/> */}
      {/* <Alluser/> */}
     <AllProduct/>
+    {/* <LogIn/> */}
     </div>
   );
 }
